@@ -5,3 +5,13 @@ document.writeln("<script language=\"javascript\" src=\"http://pkt.zoosnet.net/J
 document.writeln("<a href=\"javascript:void(0)\" onclick=openZoosUrl(\'chatwin\')  target=\"_self\"><img src=\"/chat.gif\" border=\"0\"></a>");
 document.writeln("</div>");
 //#@-livechat-sbm-content
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43443933-17', 'auto');
+  ga('send', 'pageview');
+
