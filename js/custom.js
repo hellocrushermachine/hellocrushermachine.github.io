@@ -1,22 +1,16 @@
 //#@+livechat-sbm-content
-document.writeln("<div style=\"width:160px;height:245px;float:right; z-index:999;position:fixed !important; top/**/:320px; position:absolute; top:expression(offsetParent.scrollTop+400);right:10px;\"> ");
-document.writeln("<div id=\"lpButDivID-1331955599520\"></div>");
-document.writeln("<script language=\"javascript\" src=\"http://pkt.zoosnet.net/JS/LsJS.aspx?siteid=PKT21646611&float=0&lng=en\"></script>");
-document.writeln("<a href=\"javascript:void(0)\" onclick=openZoosUrl(\'chatwin\')  target=\"_self\"><img src=\"/chat.gif\" border=\"0\"></a>");
-document.writeln("</div>");
+document.writeln('<script language="javascript" src="http://mnn.zoosnet.net/JS/LsJS.aspx?siteid=MNN94995150&float=1&lng=en"></script>');
 //#@-livechat-sbm-content
 
 
 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-97180354-7', 'auto');
-  ga('send', 'pageview');
-
-
-
-
-
+document.writeln("<!-- Global site tag (gtag.js) - Google Analytics -->");
+document.writeln("<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-44967215-27\"></script>");
+document.writeln("<script>");
+document.writeln("  window.dataLayer = window.dataLayer || [];");
+document.writeln("  function gtag(){dataLayer.push(arguments);}");
+document.writeln("  gtag(\'js\', new Date());");
+document.writeln("");
+document.writeln("  gtag(\'config\', \'UA-44967215-27\');");
+document.writeln("</script>");
+document.writeln("");
